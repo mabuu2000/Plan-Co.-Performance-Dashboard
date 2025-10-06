@@ -36,6 +36,7 @@ A set of DAX measures are created and grouped inside the Measures Folder. Here a
   CALCULATE(
       [Gross_Profits],
       SAMEPERIODLASTYEAR('Date'[Date]),
-      'Date'[Inpast] = TRUE <!-- This is a filter I made so that it only run until the same date of last year. So, if the date is Oct-25-2025, for the PYTD, it'll run            until Oct-25-2024. -->
+      'Date'[Inpast] = TRUE 
   )
+  - The "'Date'[Inpast] = TRUE" is a filter I used so that it only run until the same date of last year. So, if the date is Oct-25-2025, for the PYTD, it'll run            until Oct-25-2024.
   
