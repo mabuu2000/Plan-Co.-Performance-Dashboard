@@ -20,7 +20,9 @@ This helps the stakeholders understand how sales trends are changing, which regi
 <img width="1119" height="704" alt="image" src="https://github.com/user-attachments/assets/dc383b5c-ef89-41d5-8cc3-86162813ac58" />
 
 Plant_Hierarchy[Product_Name_id] -> Fact_Sales[Product_id]
+
 Accounts[Account_id] -> Fact_Sales[Account_id]
+
 Date[Date] -> Fact_Sales[Date_Time]
 
 **IV. DAX Measures and Calculations**
