@@ -88,12 +88,23 @@ This just takes the company's name and concatinate with the selected slicer's me
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e19599b2-4479-45e7-8934-7f83d9d863f2" />
 
 
-Based on these treemap and the waterfall chart, in 2023, China is the worst performing country with a -405K decline compared to the PYTD.
+Based on the treemap and the waterfall chart, in 2023, China is the worst performing country with a -405K decline compared to the PYTD.
 
 Moreover, several other countries also performed poorly, for example:
-- The European Marker: Sweden (-63.43K), France (-50.35K), The Netherlands (-39.40K), Norway (-51.81K), Poland (-27.42K).
+- The European Marker: Sweden (-63.43K), France (-50.35K), the Netherlands (-39.40K), Norway (-51.81K), Poland (-27.42K).
 - The North America Market: The USA (-57.38K).
 
-However, not all are in the negative. Contries such as Canada has a 56.4K and Portugal has a 103.8K increase compared to the PYTD.
+However, not all are in the negative. Countries such as Canada (56.4K), the Phillipines (74.9K) and Portugal (103.8K) have a considerable increase compared to the PYTD.
 
-These findings mean that the company should investigate the reason why China and countries in the EU market had such an enormous drop, and make an analysis on the success of Canada and Portugal's markets.
+These findings mean that the company should investigate the reason why China and countries in the EU market had such an enormous drop and make an analysis on the success of Canada, The Phillipines and Portugal's markets.
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/465e154d-3b5f-4d27-a008-87e887d03a1f" />
+
+Based on the chart, we can see the this is a pretty inconsistant year for the company.
+
+The second quarter was performing amazingly, with all 3 months making more than the PYTD. It peaked in April with a 531.9K in gross value. However, this met a consistent downturn until the end of the year, when the company made some recovery and achieved a 499.4K in gross value. Furthermore, the contributions of the 3 plant types are pretty stable throughout the year, with outdoor plants mostly staying on the top spot.
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/a877f9ac-ca24-41c1-9b72-e05663b452a0" />
+
+- As we can see here, a large number of customers are in the bottom right quadrant of the chart (high value, low margin). So the company can review these customers for pricing and maybe do some upselling for margin improvement.
+- Moreover, there are huge growth potentials for the groups in the top left quadrant (high margin, low value). So the sales team can try to come up with some strategy to grow these revenues.
