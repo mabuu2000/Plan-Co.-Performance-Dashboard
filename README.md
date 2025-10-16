@@ -108,3 +108,33 @@ The second quarter was performing amazingly, with all 3 months making more than 
 
 - As we can see here, a large number of customers are in the bottom right quadrant of the chart (high value, low margin). So the company can review these customers for pricing and maybe do some upselling for margin improvement.
 - Moreover, there are huge growth potentials for the groups in the top left quadrant (high margin, low value). So the sales team can try to come up with some strategy to grow these revenues.
+
+**Quantity:**
+
+<img width="679" height="97" alt="image" src="https://github.com/user-attachments/assets/f56c936f-251a-49d4-abd1-6f27ecb9bec7" />
+
+The quantity is doing a little bit better than GP since it outweighted the PYTD by just over 17K in terms of units. However, this is a major issue, since the company is *selling more for less*. There are a few answers to this problem:
+- Growth in less profitable products (or mayby regions) and decrease in more profitable products (or regions).
+- Too many discounts were given.
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/f811fcd7-3463-44c7-8861-b808108c1d98" />
+
+Right here, the Chinese and European markets are struggling to make sales. China had a major drop of 9.7K units, and the other European countries combined had more than 25K units. These are all traditionally good-performing countries
+
+ <img width="700" alt="image" src="https://github.com/user-attachments/assets/a81d87d1-761c-4a25-adbb-c84fb29e965d" />
+
+However, just like how the gross profit dashboard has displayed, countries like Portugal, the Philippines, and Canada all had exceptional months. This is why, despite losing so many units from China and the Europeans, the company's sales are still in the green.
+Furthermore, the company still sees great performance from other European countries like Portugal (+11.5K), Germany (+4.2K) and Hungary (+3.1K), meaning that this is an issue with certain countries rather than the entire continent.
+
+**Sales:**
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6815b59b-8bb1-4789-ae46-7483d5e4e966" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a28a8e13-76a2-431e-87af-79cbf6b9adaf" />
+
+We can see that even though countries like Portugal or Canada contributed so much in 2023, the Total in the waterfall chart is still in the negative. From all of the charts, we can now know exactly that China is the source of this decline with a whopping $0.76 million drop.
+Interestingly, even though Portugal had a wonderful year, *it's barely reaching $180K*, which means that most of the sales in this country are products that have a low profit margin, or we are simply just "buying revenue".
+
+**Recommended actions:**
+
+- An investigation is highly needed for the Chinese, and a few other European countries like Sweden, France to change the pricing strategy or supply chain issues, etc. Portugal also should be investigated to see why the number of units are is so high, yet the company can only profit $0.1M in this market.
+- From the scatter chart, the company can ensure to have a steady supply for these accounts in the high-value, high-margin quadrant. Meanwhile, develop plans for customers in the other 3 quadrants, focusing on increasing the margin on the customers who have a high-volume first.
